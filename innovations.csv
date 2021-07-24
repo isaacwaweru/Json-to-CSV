@@ -1,0 +1,53 @@
+Title,Category,Problem,Proposed Solution,Status
+Breaking Barriers,Customer experience,How to integrate digital experiences into traditional physical branch models to enhance the customer experience and reduce foot traffic in and out of physical branches.,,Evaluated
+"LENDING PARAMETERS, A CAUSE FOR REDUCED CUSTOMER RETENTION RATE",Financial Inclusion,"Stanbic bank zambia has experience a daunting reduction in the customer retention rate resulting in stunted  growth rate in our branch network NII in particular. Then PBB recorded K 178,631,261 in the first quarter of 2020 compared to K190,560,406, of the first quarter of 2021. We are cognizant of the fact that there is a growth rate of 6.26%. However, this growth rate is considered for a bank whose client base grows on a daily basis. In the case of Kabwe branch particularly, there has been a reduction in the NII figures from K8,067,367 in the first quarter of 2020 to K4,117,721 in the first quarter of 2021. This translates into a 48.96% decrease. The branch contributed 4.52% of the networks NII as of the first quarter of 2020 and 2.2% to NII first quarter of 2021 respectively. This can be attributed to the fact that we have an average of three(3) clients paying off their loan on a daily basis going to other financial institutions. Others are just changing pay points due to stringent lending parameters effected by the bank.
+Currently, our lending parameters, and to the disadvantage of an ordinary customer stand at:
+1. No loan refinancing due to purported financial misconduct. 
+2. Increased ITI
+3. Minimum net income greater or equal to K5,000 (New to Borrow)
+4. Scraping off of salary advances (smart mahafu)
+5. Increased net income for redraws or top ups (greater or equal to K4,000)
+6. High interest rates",,Evaluated
+Dynamics,Disruptions to Traditional Banking,"Disruption to traditional Banking: Our aim is to come up with a solution that will help Stanbic bank handle the risk of increasing competition from fintech’s, non-banking institutions and MNOs. We identified this by exploiting the power of data to draw customer information and further developing it into actionable insights.",,Evaluated
+Easy Cash out,Customer experience,Improvising access to cash/transfers without the ATM Card and Phone in an event of theft/loss of both ATM card and Phone. Customers will not need to move with the ATM card in order to access cash and this will reduce the number of fraudulent cases related to simswaps. No need to worry about forgotten ATM card pin.,,Evaluated
+Acquisition App,Financial Inclusion,"Acquire more customers, bank the unbanked in rural areas",,Evaluated
+Bio ID and Enhanced AI Banking,Centralised KYC Database,"KYC problems in terms of verifying customer's identity. Ability to confirm customer's identity accurately using their biological signatures (Finger or facial ID). Finger print and facial recognition technology working hand in hand will eliminate fraud risk like identity theft or transaction verifications related fraud completely.
+Ability to buy or pay for insurance from an account without coming to the bank
+Using the current Stanbic chatbot, expand its use to allow customers to get more information about bank products and transaction status after they enter their details as confirmation.",,Evaluated
+Test,Financial Inclusion,Test,,Incomplete
+PAMODZI,Financial Inclusion,"LANGUAGE BARRIER ON STANBIC BANK ZAMBIA,MOBILE BANKING APPLICATION (247) :cross-language adaptability is partly what people look for when making decisions. It adds  comfort and also brings in a higher degree of trustworthiness. The majority of Zambians who are not comfortable with English as a language struggle in cutting through these financial jargons and further face challenges in performing basic financial transactions on our mobile banking APP.",,Evaluated
+Digital Platform Enhancement,Online Banking Platform,Digital banking platform lapses and gaps,,Evaluated
+Fraud,Fraud,How might Stanbic Zambia counter and decrease fraud?,,Evaluated
+StanMobile,Customer experience,"In the recent shift of interaction dynamics with customers and non-customers, the Bank has experienced increased traffic of calls and emails in our Call Centre which has overloaded our Agents.  Further customer frustration has been recorded many times when they are unable to get through to an agent or do not have airtime to a call through the Call Centre and hence only have an option of getting to a Branch.  Existing digital solution have limitations in providing query/complaint management solutions and quick information to both our existing customers and non-customers.",,Pending evaluation
+Automated KYC Documentation Submission App/Link/System,Centralised KYC Database,"1. Current KYC documentation collection process involves someone manually checking a client's missing or expired documentation, informing the Relationship Management team/Branch who then informs the client, the client has to then come into the bank to deliver KYC documentation or send it via email. Relationship Management team/Branch staff have to then certify the document and scan it onto DSX. This is a tedious and costly process that involves a lot of manpower and paper.
+
+2. New clients have to manually bring physical documents to the branch for new account opening, these documents have to then be scanned onto DSX. Due to workload it may take time for the branch to scan the documents  and at times documents are scanned in the wrong pocket. 
+
+3. For account changes such as agent addition, changes in signatory, joint account or Pacra changes among others, the client has to deliver these documents to the bank in person or via email. There are instances when these updates are not scanned onto DSX on time hence causing causing client delays and terrible customer experience
+
+Summary
+  - Ensure up to date documents on customer mandate 
+-  Managing the misplacement of submitted documents
+- Streamlining the process from a customer submitting the documents, to them being uploaded onto the database 
+- Cost reduction in the KYC documentation collection process. The app will help redeploy manpower that is currently focusing on KYC to various sales roles to help increase revenue. Other reduced costs will include; Paper, printing, and scanning costs
+-Reduce foot traffic in and out of the physical branches",,Pending evaluation
+Stanbic Digital Stamps,Customer experience,"Wasting paper by printing instructions and then scanning and sending back to the processing units. This has proved to a very cumbersome process as there is duplication of work and a lot of time is wasted. The digital stamps will reduce of the amount of paper that is printed as well as the time spent on reviewing and scanning the documents. This means the bank will spend less on bond paper and this will also mean the bank will spend less on Toner. Moreover, those working from home will not need to come to office to print and stamp instructions but can be done at their work stations resulting in reduced traffic at Head office. It would also be beneficial for customer experience as the turn around time would be quicker.",,Pending evaluation
+Project Innov8 Management Solution,Bureaucracy,"The manual management of ProjectInnov8, which can be cumbersome",,Pending evaluation
+AI Driven KYC Updates,Centralised KYC Database,"i)  Stale KYC data- Customer data is constantly changing and the bank is unable to cope.
+ii) Efficient -Targeted KYC updates /Updates on a need basis.
+iii) Limited analytical capability to identify KYC gaps.
+iv)  Enhanced right party contacts to push digital sales.
+iv)  Enhanced risk management from a rehabilitation and recoveries perspective.
+v)   Enhanced data quality measurement.",,Evaluated
+The Customer Product Hub,Financial Inclusion,"Currently customer acquisition involves customers walking in the Branch and Direct sales marketing and account opening through MOUs and the ecosystem. Even with such efforts, customers complain of high costs of accounts and would prefer keeping mobile wallet accounts with MNOs. Furthermore, with the Covid-19 global pandemic, physical contact is discouraged, and this greatly impacts on interaction through the Branch. Thus, we still have masses of unbanked.",,Pending evaluation
+Enhanced customer experience,Customer experience,Rampant customer foot traffic in and out of the physical branches,,Pending evaluation
+Report a Card transaction Issue/Fraud Online,Customer experience,"We are seeking to Automate the card query management process by allowing our customers to directly report card related queries online and help them resolve issues swiftly. Many are the times that customers delay reporting card transaction issues due to limited reporting facilities and in some cases giving fraudsters ample time to loot their resources. This innovation therefore, seeks to encounter and decrease card frauds as well as cut down on bureaucracy which in some cases prolongs query resolution and frauds by fraudsters",,Pending evaluation
+Fraud Prevention,Fraud,"To provide convenience to the customer, prevent sensitive Customer  information  getting  into the wrong hands and for the bank to have the correct and  current personal information about the customer, there is need to create customer interface for Customer relationship management System which will allow customers have  access to specific fields and thereby make amendments  via any of the Digital platforms( Internet Banking, Mobile App) without visiting POR using a fraud free process . The most important information which regularly change are:
+1.	Email address
+2.	Cellphone number 
+3.	Physical address",,Pending evaluation
+AVINTU APPLICATION,Customer experience,"We are decongesting the Branch by reducing on customer queries about charges on their accounts, ATM applications, Loan queries and international payments.",,Pending evaluation
+Sentinel,Fraud,Financial Fraud. As the business becomes increasingly digital the incidence of fraud on our digital platform is in the rise. In addition to direct financial losses. The bank suffers an opportunity cost/loss due to reduced confidence in our digital capability.,,Evaluated
+Project Ma-Cheni,Centralised KYC Database,"Centralised KYCdabase 
+
+Thereafter leveraging of this database to see wider opportunities , creating linkages and ultimately an efficient platform easing our clients challenges and supporting their  business growth.",,Evaluated
