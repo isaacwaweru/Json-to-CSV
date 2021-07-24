@@ -1,7 +1,7 @@
 const createCsvWriter = require('csv-writer').createObjectCsvWriter;
 const parseJson = require('parse-json');
 const fs = require('fs')
-
+//let's 
 let innovations;
  function readJson () {
     fs.readFile('./innovations.json', 'utf8', (err, jsonString) => {
